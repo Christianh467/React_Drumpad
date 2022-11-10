@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#drum-machine{
+  height: 100vh;
+  width: 100vw;
+  min-width: 400px;
+  min-height: 460px;
+}
+
+#drumpad-header{
+  display: flex;
+  flex-direction: column;
+  margin-top: -4rem;
+  padding: 1rem;
+  width: 70%;
+  background-color: black;
+  /*CONTAINER*/
+}
+
+#drumpad-display{
+  text-align: center;
+  color: white;
+}
+
+#drumpad-title{
+  font-size: 5vw;
+}
+
+#drumpad-bottom{
+  display: flex;
+  justify-content: center;
+}
+
+#buttonRow{
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  height: 100%;
+  width: 80%;
+  min-width: 230px;
+  background-color: gray;
+}
+
+button{
+  margin-bottom: .5rem;
+  margin-top: .5rem;
+  margin-right: .5rem;
+  margin-left: .5rem;
+  height: 8vh;
+}
+
+#display{
+  color: red;
+}
+
+#display h2{
+  font-size: 4vw;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#button-label {
+  font-size: 1.1vw;
+}
+
