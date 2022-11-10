@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Drumpad/static/css/main.5c0d1b8c.css",
+    "main.js": "/React_Drumpad/static/js/main.20f9a1cb.js",
+    "static/js/787.88d76425.chunk.js": "/React_Drumpad/static/js/787.88d76425.chunk.js",
+    "index.html": "/React_Drumpad/index.html",
+    "main.5c0d1b8c.css.map": "/React_Drumpad/static/css/main.5c0d1b8c.css.map",
+    "main.20f9a1cb.js.map": "/React_Drumpad/static/js/main.20f9a1cb.js.map",
+    "787.88d76425.chunk.js.map": "/React_Drumpad/static/js/787.88d76425.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0d1b8c.css",
+    "static/js/main.20f9a1cb.js"
+  ]
+}
